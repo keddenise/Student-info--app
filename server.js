@@ -9,7 +9,7 @@ app.use(express.static('public'));
 // Replace these with your actual information
 const studentInfo = {
   fullName: "Khate Denise A. Gonzales",
-  classSection: "BA4105 - Section A",
+  classSection: "BSIT-BA 4102",
   quotation: "Life asks nothing of us but to show up, feel it fully, and live it consciously; until the day we can't."
 };
 
