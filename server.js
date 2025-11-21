@@ -8,7 +8,7 @@ app.use(express.static('public'));
 
 // Replace these with your actual information
 const studentInfo = {
-  fullName: "Your Full Name",
+  fullName: "Khate Denise A. Gonzales",
   classSection: "BA4105 - Section A",
   quotation: "Life asks nothing of us but to show up, feel it fully, and live it consciously; until the day we can't."
 };
